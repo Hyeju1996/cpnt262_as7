@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    margin:0;
+    font-size: 'Source Sans Pro', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+ font-family: 'Delicious Handrawn', cursive;
+}
+
+nav ul {
+    padding-left: 0;
+    list-style: none;
+    background-color:  #84441a ;
+}
+
+nav a {
+    display: block;
+    padding: 0.5em 2em;
+
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+
+    color: white;
+}
+
+footer {
+background-color: #84441a ;
+border-top: 1px soild  #84441a ;
+margin: 0;
+}
+
+footer p {
+    margin: 0;
+    padding: 2rem;
+    text-align: center;
+    color: white;
+  }
